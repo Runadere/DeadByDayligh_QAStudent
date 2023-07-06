@@ -3,7 +3,9 @@
 Steps to reproduce
 
 [Title]
+
 Dead by Daylight (DBD)- Distortion triggers on player while hooked, if another Survivor is hooked.
+
 [Description]
 
 Perk Distortion triggers after a player's character is hooked, and another Survivor player is also hooked even if no rescue takes place. This affects all platforms bar DBD Mobile, and both public lobbies plus custom games. These steps are for open public lobbies. Custom match requires 3 players, and replacing step 2 with selecting “Custom Game” from the main menu. 2 must pick Survivor and 1 has to be the Killer, any map. In this example, Distortion is the left perk icon at the right hand corner of the screen.
@@ -30,9 +32,11 @@ Pick any character and use their “loadout” with any 3 perk combination.
 
 Click search bar on loadout screen and search for Distortion.
 
-Press the play button in right hand corner to being search for lobby.
+Press the play button in right hand corner to begin search for lobby.
 
 Start match.
+
+The aim is to power 5 generators, avoid the killer, rescue teammates and escape!
 
 When downed and hooked by Killer, watch for other Survivors auras-If another Survivor is downed and hooked.
 
