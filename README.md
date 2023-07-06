@@ -1,4 +1,4 @@
-# DeadByDayligh_QAStudent
+# DeadByDaylight_QAStudent
 
 Steps to reproduce
 
