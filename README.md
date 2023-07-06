@@ -41,3 +41,4 @@ The aim is to power 5 generators, avoid the killer, rescue teammates and escape!
 When downed and hooked by Killer, watch for other Survivors auras-If another Survivor is downed and hooked.
 
 Observe the Distortion icon light up, indicating loss of stack.
+
