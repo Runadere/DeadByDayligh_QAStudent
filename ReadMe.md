@@ -1,6 +1,6 @@
 # DeadByDaylight_QAStudent
 
-Readme.md is always steps to reproduce and capture of issue found.
+Readme.md in branches are always steps to reproduce and capture of issue found.
 
 Folder containing any issues found in Dead By Daylight (DBD) by BHVR. All content, assests etc are owned by BHVR or jointly with their repsective licensed holders. 
 
